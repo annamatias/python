@@ -5,3 +5,5 @@ Você encontrará meus servidores, interface gráfica, funcionalidades que desen
 Combinações de funcionalidades com um site web, etc... </br>
 </br>
 Brevemente irei adicionar coisas novas, por enquanto é só....bjussss
+</br>
+PS: Dou créditos ao meu professor Lucas, por ter me proporcionado imenso aprendizado e também as lições e aprendizados que compartilho com vocês também.
